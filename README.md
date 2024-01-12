@@ -46,7 +46,7 @@ The Recipe API is a simple web service that allows users to manage and retrieve 
 ### API Endpoints 
 
 - GET /recipes/:type: Get recipes based on dish type.
-- POST /recipes/:type/:name: Add a new recipe.
+- POST /recipes/: Add a new recipe.
 - PUT /recipes/:name: Update an existing recipe.
 - DELETE /recipes/:name: Delete a recipe.
 
